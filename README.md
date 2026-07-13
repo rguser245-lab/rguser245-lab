@@ -36,25 +36,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=godot"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,godot,git,github,vscode"/>
 
 </p>
 
 ---
-
-# 📊 Player Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rguser245-lab&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rguser245-lab&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
