@@ -12,7 +12,7 @@
 
 ---
 
-# 💼 Profile
+## 💼 Abut Me
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -52,7 +52,7 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🐸 Herta Kururin Desktop Pet
 
@@ -78,7 +78,7 @@ Automatic Downloads organizer.
 
 ---
 
-# 🔥 Daily Activity
+## 🔥 Daily Activity
 
 <p align="center">
 
@@ -88,7 +88,7 @@ Automatic Downloads organizer.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 
@@ -98,7 +98,7 @@ Automatic Downloads organizer.
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 <p align="center">
 
