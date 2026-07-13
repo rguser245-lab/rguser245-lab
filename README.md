@@ -32,12 +32,22 @@
 
 ---
 
-# 🛠 Inventory (Tech Stack)
+# Language
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,godot,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python"/>
 
+</p>
+
+---
+
+#Tools
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=godot,git,github,vscode"/>
+  
 </p>
 
 ---
