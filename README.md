@@ -6,7 +6,7 @@
 
 *"Building websites, automation tools, and interactive experiences"*
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7D9F5B&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;HTML+%7C+CSS+%7C+JavaScript;Godot+Developer;Python+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7D9F5B&center=true&vCenter=true&width=700&lines=Building+Websites+.+.+.;HTML+%7C+CSS+%7C+JavaScript;Godot+Developer;Python+Automation" />
 
 </div>
 
