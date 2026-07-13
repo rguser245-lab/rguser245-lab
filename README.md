@@ -58,13 +58,11 @@
 
 Transparent desktop pet built with Godot 4.
 
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white">  <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square">  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows">
+
 <a href="https://github.com/rguser245-lab/Herta-Kururin-Desktop-Pet-Godot-4">
 View Repository →
 </a>
-
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white">  <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square">  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows">
-
-
 
 ---
 
