@@ -12,7 +12,7 @@
 
 ---
 
-# 🎮 Player Status
+# 🎮 Character Profile
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -52,48 +52,31 @@
 
 ---
 
-# 🏆 Completed Quests
-
-### 🌐 Portfolio Website
-
-Responsive portfolio website built using HTML, CSS and JavaScript.
-
----
-
-### 🏫 Memory Of School
-
-School memories website featuring:
-
-- Gallery
-- Music Player
-- Slideshow
-- Comment System
-- Lightbox
+# 🚀 Featured Projects
 
 ---
 
 ### 🐸 Herta Kururin Desktop Pet
 
-Desktop pet built with Godot 4.
+Transparent desktop pet built with Godot 4.
 
-Features
+[Godot] [GDScript] [Windows]
 
-- Transparent Window
-- Animation
-- Audio
-- Cross Platform
+---
+
+### 🏫 Memory of School
+
+Interactive school memories website.
+
+[HTML] [CSS] [JavaScript] [YouTube API]
 
 ---
 
 ### 📁 Smart Folder Organizer
 
-Python automation for organizing Downloads folder automatically.
+Automatic Downloads organizer.
 
----
-
-### 😂 Hinaan Simulator
-
-VS Code extension created for fun.
+[Python] [Automation]
 
 ---
 
