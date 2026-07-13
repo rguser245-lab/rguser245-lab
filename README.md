@@ -52,21 +52,56 @@
 
 ---
 
+# 🏆 Completed Quests
+
+### 🌐 Portfolio Website
+
+Responsive portfolio website built using HTML, CSS and JavaScript.
+
+---
+
+### 🏫 Memory Of School
+
+School memories website featuring:
+
+- Gallery
+- Music Player
+- Slideshow
+- Comment System
+- Lightbox
+
+---
+
+### 🐸 Herta Kururin Desktop Pet
+
+Desktop pet built with Godot 4.
+
+Features
+
+- Transparent Window
+- Animation
+- Audio
+- Cross Platform
+
+---
+
+### 📁 Smart Folder Organizer
+
+Python automation for organizing Downloads folder automatically.
+
+---
+
+### 😂 Hinaan Simulator
+
+VS Code extension created for fun.
+
+---
+
 # 🔥 Daily Activity
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=rguser245-lab&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rguser245-lab&theme=github-dark&hide_border=true"/>
 
 </p>
 
