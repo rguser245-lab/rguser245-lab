@@ -32,17 +32,17 @@
 
 ---
 
-# Language
+# 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,GDScript"/>
 
 </p>
 
 ---
 
-# Tools
+# 🛠 Development Tools
 
 <p align="center">
 
