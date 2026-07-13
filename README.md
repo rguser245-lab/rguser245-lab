@@ -6,7 +6,7 @@
 
 *"Building websites, automation tools, and interactive experiences"*
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7D9F5B&center=true&vCenter=true&width=700&lines=Building+Websites+.+.+.;Developing+Games+with+Godot+.+.+.;Godot+Developer;Always+Learning+Something+New+.+.+." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3200&pause=1000&color=7D9F5B&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Building+Modern+Websites;%F0%9F%8E%AE+Developing+Games+with+Godot;%F0%9F%90%8D+Creating+Automation+Tools;%F0%9F%9A%80+Always+Learning+Something+New"/>
 
 </div>
 
