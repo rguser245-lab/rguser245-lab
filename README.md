@@ -17,15 +17,15 @@
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-👤 Rizky Rahman
+👤 Name      : Rizky Rahman
 
-🌏 Indonesia
+🌏 Country   : Indonesia
 
-💻 Junior Web Developer
+💼 Class     : Junior Web Developer
 
-🎮 Godot Developer
+🎮 Subclass  : Godot Developer
 
-📚 Currently learning Backend Development
+📚 Learning  : Backend Development
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
