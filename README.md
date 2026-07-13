@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Projects
 
-### 🐸 Herta Kururin Desktop Pet
+### ⚡  Herta Kururin Desktop Pet
 
 Transparent desktop pet built with Godot 4.
 
