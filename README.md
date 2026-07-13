@@ -55,6 +55,16 @@ desktop tools, and interactive games.
 
 ## 📫 Contact
 
-- Portfolio
-- Email
-- GitHub
+<p align="left">
+  <a href="https://websitekamu.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+  </a>
+
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/rguser245-lab">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
+  </a>
+</p>
