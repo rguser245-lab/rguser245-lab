@@ -1,44 +1,162 @@
-████████████████████████████████████
+<div align="center">
 
-👾 RIZKY RAHMAN
+# 👾 Rizky Rahman
 
-Junior Web Developer
-Godot Game Developer
+### Junior Web Developer • Godot Game Developer
 
-████████████████████████████████████
+*"Building modern websites, automation tools, and interactive games."*
 
-🎮 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=7D9F5B&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;HTML+%7C+CSS+%7C+JavaScript;Godot+Developer;Python+Automation" />
 
-████████████████████████████████████
+</div>
 
-🛠 Tech Stack
+---
 
-████████████████████████████████████
+# 🎮 Player Status
 
-🏆 Featured Projects
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌐 Portfolio
-🏫 Memory Of School
-🐸 Herta Desktop Pet
-📁 Smart Folder Organizer
-😂 Hinaan Simulator
+👤 Name      : Rizky Rahman
 
-████████████████████████████████████
+🌏 Country   : Indonesia
 
-📊 GitHub Stats
+💼 Class     : Junior Web Developer
 
-████████████████████████████████████
+🎮 Subclass  : Godot Developer
 
-🔥 GitHub Streak
+📚 Learning  : Backend Development
 
-████████████████████████████████████
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-🐍 Snake / 🟡 Pacman Animation
+---
 
-████████████████████████████████████
+# 🛠 Inventory (Tech Stack)
 
-📫 Contact
+<p align="center">
 
-████████████████████████████████████
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode"/>
 
-Thanks for visiting 👋
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=godot"/>
+
+</p>
+
+---
+
+# 🏆 Completed Quests
+
+### 🌐 Portfolio Website
+
+Responsive portfolio website built using HTML, CSS and JavaScript.
+
+---
+
+### 🏫 Memory Of School
+
+School memories website featuring:
+
+- Gallery
+- Music Player
+- Slideshow
+- Comment System
+- Lightbox
+
+---
+
+### 🐸 Herta Kururin Desktop Pet
+
+Desktop pet built with Godot 4.
+
+Features
+
+- Transparent Window
+- Animation
+- Audio
+- Cross Platform
+
+---
+
+### 📁 Smart Folder Organizer
+
+Python automation for organizing Downloads folder automatically.
+
+---
+
+### 😂 Hinaan Simulator
+
+VS Code extension created for fun.
+
+---
+
+# 📊 Player Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rguser245-lab&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rguser245-lab&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Daily Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rguser245-lab&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rguser245-lab&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://github.com/rguser245-lab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:EMAIL_KAMU">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="LINK_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+*"Keep learning. Keep building."*
+
+</div>
