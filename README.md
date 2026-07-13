@@ -32,7 +32,7 @@
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-# 🛠 Development Tools
+## 🛠 Development Tools
 
 <p align="center">
 
