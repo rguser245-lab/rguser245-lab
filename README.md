@@ -1,70 +1,44 @@
-# 👋 Hi, I'm Rizky Rahman
+████████████████████████████████████
 
-### Junior Web Developer | Godot Game Developer | Python Automation
+👾 RIZKY RAHMAN
 
-I'm a developer from Indonesia who enjoys building modern web applications,
-desktop tools, and interactive games.
+Junior Web Developer
+Godot Game Developer
 
----
+████████████████████████████████████
 
-## 🚀 Featured Projects
+🎮 About Me
 
-🌐 Portfolio Website
-> Responsive portfolio built with HTML, CSS, and JavaScript.
+████████████████████████████████████
 
-🏫 Memory of School
-> School memories website with gallery, slideshow, music player, and comments.
+🛠 Tech Stack
 
-🐸 Herta Kururin Desktop Pet
-> Transparent desktop pet built using Godot 4.
+████████████████████████████████████
 
+🏆 Featured Projects
+
+🌐 Portfolio
+🏫 Memory Of School
+🐸 Herta Desktop Pet
 📁 Smart Folder Organizer
-> Automatically organize your Downloads folder using Python.
+😂 Hinaan Simulator
 
----
+████████████████████████████████████
 
-## 🛠 Tech Stack
+📊 GitHub Stats
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode" />
-</p>
+████████████████████████████████████
 
----
+🔥 GitHub Streak
 
-## 📊 GitHub Stats
+████████████████████████████████████
 
-<p align="center">
+🐍 Snake / 🟡 Pacman Animation
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rguser245-lab&show_icons=true&theme=github_dark&hide_border=true"/>
+████████████████████████████████████
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rguser245-lab&layout=compact&theme=github_dark&hide_border=true"/>
+📫 Contact
 
-</p>
+████████████████████████████████████
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rguser245-lab&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="https://websitekamu.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
-  </a>
-
-  <a href="mailto:emailkamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-
-  <a href="https://github.com/rguser245-lab">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
-  </a>
-</p>
+Thanks for visiting 👋
