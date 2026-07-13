@@ -42,8 +42,6 @@
 
 ---
 
----
-
 # 🔥 Daily Activity
 
 <p align="center">
